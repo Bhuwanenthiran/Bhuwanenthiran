@@ -92,7 +92,7 @@
 - OpenStreetMap API for donor location tracking
 - Designed for quick and easy donor discovery
 
-### 🌾 Farmer–Customer Platform (In Progress)
+### 🌾 Farmer–Customer Platform 
 - Web app connecting farmers directly with customers
 - Separate login systems for users
 - Focused on reducing middlemen and improving accessibility
