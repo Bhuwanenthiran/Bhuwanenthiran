@@ -98,16 +98,6 @@
 - Focused on reducing middlemen and improving accessibility
 - Using AI tools for faster development
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Bhuwanenthiran&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
 
 ## ❤️ Support Me
 
