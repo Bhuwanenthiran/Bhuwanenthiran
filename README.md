@@ -98,6 +98,15 @@
 - Focused on reducing middlemen and improving accessibility
 - Using AI tools for faster development
 
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuwanenthiran&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuwanenthiran&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuwanenthiran&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 
 ## ❤️ Support Me
 
