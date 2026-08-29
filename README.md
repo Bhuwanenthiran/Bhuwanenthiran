@@ -211,17 +211,14 @@ I'm continuously working on projects that help me move from
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuwanenthiran&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Bhuwanenthiran&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuwanenthiran&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
