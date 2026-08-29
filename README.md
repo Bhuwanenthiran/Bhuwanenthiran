@@ -5,15 +5,26 @@
   Hi, I'm <strong>Bhuwanenthiran D M</strong>
 </h1>
 
-<h3>BCA Student | App Developer | Aspiring Full Stack Developer</h3>
+<h3>BCA Student | Full Stack Developer | AI Enthusiast | App Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a motivated BCA student passionate about building real-world applications.  
-    I enjoy developing mobile apps and web solutions that solve practical problems and improve user experience.  
-    Currently exploring full-stack development and AI integration.
+    I'm a BCA student passionate about building real-world applications and
+    solving practical problems through technology.
+  </p>
+
+  <p>
+    I work across frontend, backend, mobile development, APIs, databases,
+    cloud services, and AI-powered solutions. I enjoy turning ideas into
+    functional applications with a focus on real backend integration,
+    scalability, and user experience.
+  </p>
+
+  <p>
+    Currently focused on strengthening my full-stack development skills,
+    backend architecture, cloud technologies, and AI integration.
   </p>
 
   <p>
@@ -22,18 +33,18 @@
       <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
     </a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Learning_Full_Stack_&_AI-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Full_Stack_&_AI-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
-  
+
 <p align="left">
   <a href="https://github.com/Bhuwanenthiran">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/bhuwanenthiran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -44,69 +55,185 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
+
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,html" />
-<br/><br/>
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,javascript,html,css" />
 
 </td>
 
 <td width="50%" align="center">
-<h3>📚 Frameworks & Tools</h3>
+<h3>🌐 Full Stack Development</h3>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases & APIs</h3>
 
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+<td width="50%" align="center">
+<h3>📱 Mobile & Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode" />
+
+</td>
+
+<td width="50%" align="center">
+<h3>🗄️ Databases & Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+<h3>☁️ Cloud & Storage</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,firebase" />
+
+</td>
+
+<td width="50%" align="center">
+<h3>🤖 AI & APIs</h3>
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 <br/><br/>
 
+<strong>REST APIs • AI Integration • API Development</strong>
+
 </td>
 
-<td width="50%" align="center">
-<h3>🚀 Currently Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</td>
 </tr>
 </table>
+
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🩸 BloodMate – Blood Donation App
-- Built using **Kotlin & Android Studio**
-- Firebase authentication & database integration
-- OpenStreetMap API for donor location tracking
-- Designed for quick and easy donor discovery
+### 🩸 BloodMate – Blood Donation Platform
 
-### 🌾 Farmer–Customer Platform 
-- Web app connecting farmers directly with customers
-- Separate login systems for users
-- Focused on reducing middlemen and improving accessibility
-- Using AI tools for faster development
+A mobile application designed to make blood donor discovery faster and easier.
 
-  <p align="center">
+* 📱 Built with **Kotlin & Android Studio**
+* 🔐 Firebase authentication
+* 🗄️ Firebase database integration
+* 🗺️ OpenStreetMap API integration
+* 📍 Donor location discovery
+* 👥 Designed around real-world emergency use cases
+
+---
+
+### 🌾 Farmer–Customer Platform
+
+A web platform designed to connect farmers directly with customers.
+
+* 🌐 Full-stack web application
+* 👤 Separate user authentication flows
+* 🔐 Backend authentication and authorization
+* 🛒 Direct farmer-to-customer interaction
+* 🤖 AI-assisted development and integration
+* 🎯 Focused on reducing unnecessary middlemen
+
+---
+
+### 🏃 AthleteDNA – AI-Powered Athlete Analysis
+
+An AI-focused application designed to analyze athlete-related data and provide meaningful insights.
+
+* 🤖 Machine learning integration
+* 📊 Athlete performance analysis
+* 🩹 Injury analysis
+* 📈 Data-driven insights
+* 🌐 Application-based AI integration
+
+---
+
+### 🌊 Flood Management / Disaster Response Platform
+
+A full-stack platform focused on improving disaster and flood management workflows.
+
+* 🌐 Frontend + backend architecture
+* 🔐 Authentication and authorization
+* 🗄️ Database integration
+* 📡 Real API communication
+* ☁️ Cloud storage architecture
+* 📁 Separate organization/company and employee data handling
+* 🔄 Backend-driven application workflows
+
+---
+
+## 💡 What I Build
+
+```text
+📱 Mobile Applications
+🌐 Full Stack Web Applications
+⚙️ Backend & REST APIs
+🤖 AI-Powered Applications
+☁️ Cloud-Based Solutions
+🗄️ Database-Driven Systems
+🔐 Authentication & Authorization
+🔗 Third-Party API Integrations
+```
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full Stack Development
+        ↓
+Backend Architecture & APIs
+        ↓
+Cloud & Database Technologies
+        ↓
+AI Integration
+        ↓
+Building Production-Ready Applications
+```
+
+I'm continuously working on projects that help me move from
+**learning concepts → building real systems → understanding production workflows.**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuwanenthiran&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuwanenthiran&theme=github-dark-blue&hide_border=true" />
 </p>
 
+---
 
+## 🤝 Let's Connect
 
+I'm interested in:
 
-## ❤️ Support Me
+* 💼 Internships & developer opportunities
+* 🚀 Full-stack development
+* 🤖 AI-powered applications
+* 📱 Mobile application development
+* 🌐 Building real-world software
+* 🤝 Collaborating on interesting projects
 
 <p align="center">
-  <i>Building and learning every day 🚀</i>
+  <i>Learning. Building. Improving. 🚀</i>
 </p>
