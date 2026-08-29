@@ -211,14 +211,6 @@ I'm continuously working on projects that help me move from
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bhuwanenthiran&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 ## 🤝 Let's Connect
 
