@@ -210,14 +210,26 @@ I'm continuously working on projects that help me move from
 **learning concepts → building real systems → understanding production workflows.**
 
 ---
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reidhanei06/reidhanei06/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
-
-## 🤝 Let's Connect
-
 I'm interested in:
 
 * 💼 Internships & developer opportunities
