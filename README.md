@@ -210,7 +210,11 @@ I'm continuously working on projects that help me move from
 **learning concepts → building real systems → understanding production workflows.**
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reidhanei06/reidhanei06/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 🤝 Let's Connect
 
