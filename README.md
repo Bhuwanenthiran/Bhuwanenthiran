@@ -212,23 +212,15 @@ I'm continuously working on projects that help me move from
 ---
 ---
 
+<h1 align="center">I'm REIDHANEI PM </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+%7C+DSA+%7C+Web+Development;IT+Student;Building+Projects+Every+Day" />
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/bhuwanenthiran/bhuwanenthiran/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 I'm interested in:
 
