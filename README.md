@@ -212,14 +212,7 @@ I'm continuously working on projects that help me move from
 ---
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Bhuwanenthiran/Bhuwanenthiran/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-</p>
 I'm interested in:
 
 * 💼 Internships & developer opportunities
