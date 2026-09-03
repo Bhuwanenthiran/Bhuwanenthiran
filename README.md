@@ -137,18 +137,6 @@ A mobile application designed to make blood donor discovery faster and easier.
 * 👥 Designed around real-world emergency use cases
 
 ---
-
-### 🌾 Farmer–Customer Platform
-
-A web platform designed to connect farmers directly with customers.
-
-* 🌐 Full-stack web application
-* 👤 Separate user authentication flows
-* 🔐 Backend authentication and authorization
-* 🛒 Direct farmer-to-customer interaction
-* 🤖 AI-assisted development and integration
-* 🎯 Focused on reducing unnecessary middlemen
-
 ---
 
 ### 🏃 AthleteDNA – AI-Powered Athlete Analysis
@@ -162,18 +150,6 @@ An AI-focused application designed to analyze athlete-related data and provide m
 * 🌐 Application-based AI integration
 
 ---
-
-### 🌊 Flood Management / Disaster Response Platform
-
-A full-stack platform focused on improving disaster and flood management workflows.
-
-* 🌐 Frontend + backend architecture
-* 🔐 Authentication and authorization
-* 🗄️ Database integration
-* 📡 Real API communication
-* ☁️ Cloud storage architecture
-* 📁 Separate organization/company and employee data handling
-* 🔄 Backend-driven application workflows
 
 ---
 
@@ -189,27 +165,6 @@ A full-stack platform focused on improving disaster and flood management workflo
 🔐 Authentication & Authorization
 🔗 Third-Party API Integrations
 ```
-
----
-
-## 🎯 Current Focus
-
-```text
-Full Stack Development
-        ↓
-Backend Architecture & APIs
-        ↓
-Cloud & Database Technologies
-        ↓
-AI Integration
-        ↓
-Building Production-Ready Applications
-```
-
-I'm continuously working on projects that help me move from
-**learning concepts → building real systems → understanding production workflows.**
-
----
 ---
 
 
