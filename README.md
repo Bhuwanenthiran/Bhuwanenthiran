@@ -150,7 +150,21 @@ An AI-focused application designed to analyze athlete-related data and provide m
 * 🌐 Application-based AI integration
 
 ---
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-snake.svg"
+  />
+  <img
+    alt="Bhuwanenthiran GitHub contribution snake"
+    src="./dist/github-snake.svg"
+    width="100%"
+  />
+</picture>
 ---
 
 ## 💡 What I Build
